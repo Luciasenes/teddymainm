@@ -1,0 +1,1 @@
+/*svg graphic found at http://svgcuts.com/blog/2013/08/03/free-svg-file-08-03-13-teddy-bear-cutie/. */
